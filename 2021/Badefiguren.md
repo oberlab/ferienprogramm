@@ -1,29 +1,15 @@
 ---
-title: Badefiguren
+title: Badebomben & Co.
 category: science
 attributes:
   age: Ab 8+ Jahren
-  class: Ab der 4. Klasse
   group_size: 6-14 Personen
   duration: 45 min Dauer
   material_costs: 8 EUR Materialkosten
-  school_subject: NuT, Chemie, HSU
-  mobile: mobiles Angebot
-curriculum_reference:
-  Grundschule: WG3/4  
-  Mittelschule: WG5+6  
-  Förderschule: WG3/4+5+6, HSU3/4   
-  Realschule: NT5+6
-  Gymnasium: NT5+6, Inf9-12
-image_result: ../content/img/kurse/badefiguren_result.png
-image_process: ../content/img/kurse/badefiguren_process
+image:
 ---
 :::short_description  
  Aus pflanzlichen Rohstoffen stellt ihr haut- und umweltverträgliche Badefiguren ganz nach eurer Rezeptur zusammen. Reine Kakaobutter wird hierbei verflüssigt, mit einem ätherischen Öl eurer Wahl zusammengebracht, wahlweise mit Rosen-, oder Lavendelblüten verfeinert und in eine Tierform eurer Wahl gegossen. Besonders duftende Pflanzen in eurem Garten? Kein Problem! Nehmt diese mit und verpasst den Badefiguren eure ganz persönliche (Duft)Note; alles ganz natürlich und umweltschonend.  
-:::
-
-:::learning_goals  
-Schüler:innen sollen hierbei lernen, wie man mit nachwachsenden Rohstoffen in Eigenregie Pflegeprodukte herstellen kann, Inhaltsstoffe von herkömmlichen Badeartikeln kritisch zu hinterfragen, und wie nachhaltige und kostengünstige Produktion funktioniert.    
 :::
 
 :::message

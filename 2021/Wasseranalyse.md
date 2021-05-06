@@ -15,15 +15,10 @@ curriculum_reference:
   Förderschule: NT   
   Realschule: B6 4, B10, C8-10
   Gymnasium: NT6 1.5, B8, B12 4.2, C10, Q/K
-image_result: ../content/img/kurse/wasseranalyse_result.png
-image_process: ../content/img/kurse/wasseranalyse_process.png
+image:
 ---
 :::short_description  
 Wasser = Wasser und in Wasser ist Wasser. Ist das so? Wieso schmeckt aber Meerwasser salzig und Leitungswasser nicht, wenn Wasser gleich Wasser ist? In diesem Kurs lernt ihr das Wasser aus einem ganz neuen Blickwinkel kennen, analysiert es auf den Nitratgehalt und bestimmt den Härte-, und Säuregrad von Wasser. Hierbei wendet ihr verschiedene Nachweise und Analyseverfahren kennen. Da ihr die Wissenschaftler seid, dürft ihr gerne das Wasser aus eurer Leitung von zu Hause mitnehmen und analysieren.
-:::
-
-:::learning_goals  
-Der Grundstein für ein analytisches Grundverständnis wird den Schüler:innen in diesem Workshop verdeutlicht und dass es möglich ist, kleinste Bausteine von Stoffen, die mit bloßem Auge nicht erkennbar sind, in gewisser Weise sichtbar zu machen.     
 :::
 
 :::message  
