@@ -1,6 +1,6 @@
 ---
 title: Wetterstation
-category: science|code|engineering
+category: engineering
 attributes:
   age: Ab 10+ Jahren
   group_size: 6 Personen
