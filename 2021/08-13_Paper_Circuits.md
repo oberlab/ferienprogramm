@@ -2,21 +2,13 @@
 title: Paper Circuits
 category: science
 attributes:
-  age: Ab 8+ Jahren
-  class: Ab der 3. Klasse
-  group_size: 6-14 Personen
-  duration: 45 min Dauer
-  material_costs: 5 EUR Materialkosten
-  school_subject: NuT
-  mobile: mobiles Angebot
-curriculum_reference:
-  Grundschule: WG3/4, HSU3/4  
-  Mittelschule: T7-9 3, NT6 4  
-  Förderschule: HSU3/4, T7, NT5-6   
-  Realschule: Ph8+9, We5-8
-  Gymnasium: NT7 1.3, Ph8
-image_result: ../content/img/kurse/paper_result.png
-image_process: ../content/img/kurse/paper_process.png
+  age: 8-12 Jahre
+  group_size: 6 Personen
+  duration: 10:00 - 15:00
+  date: 13.08.2021
+  material_costs: 2 EUR Materialkosten
+  total_costs: 15 EUR + 2 EUR Materialkosten
+image:
 ---
 :::short_description  
 "Mir geht nur dann ein Licht auf, wenn eine Steckdose in der Nähe ist." In diesem Kurs könnt ihr euch vom Gegenteil überzeugen und einen Stromkreis selbst zusammenbauen und das Ganze auch noch auf einem normalen Stück DIN-A4-Papier. Hierfür befestigt ihr Kupferband auf der Rückseite eines Kartons, verbindet die Leitungen mit den Polen einer Knopfzelle, schließt nun noch eine LED in der Farbe eurer Wahl und - voila - es werde Licht.   

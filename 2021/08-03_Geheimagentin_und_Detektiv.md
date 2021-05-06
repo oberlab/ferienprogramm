@@ -1,11 +1,13 @@
 ---
 title: workshop title
-category: science|code|engineering
+category: science
 attributes:
   age: Ab 8+ Jahren
   group_size: 6 Personen
-  duration: x h Dauer
+  duration: 10:00 - 16:00
+  date: 03.08.2021
   material_costs: 5 EUR (pro Person) Materialkosten
+  total_costs:
 image:
 ---
 :::short_description

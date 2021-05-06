@@ -4,8 +4,10 @@ category: code
 attributes:
   age: Ab 14+ Jahren
   group_size: 6 Personen
-  duration: 6-10 h Dauer
+  duration: 10:00 - 17:00
+  date: 31.08. - 01.09.2021
   material_costs: 20 EUR Materialkosten
+  total_costs: 50 EUR + 20 EUR Materialkosten
 image:
 ---
 :::short_description
