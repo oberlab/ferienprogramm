@@ -5,7 +5,7 @@ attributes:
   age: Ab 10+ Jahren
   group_size: 6 Personen
   duration: 6 h Dauer
-  material_costs: 10 EUR (pro Person) Materialkosten
+  material_costs: 15 EUR (pro Person) Materialkosten
 image:
 ---
 :::short_description
