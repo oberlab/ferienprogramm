@@ -7,7 +7,7 @@ attributes:
   duration: 10:00 - 16:00
   date: 25.08.2021
   material_costs: 10 EUR Materialkosten
-  total_costs: 20 EUR + 10 EUR Materialkosten
+  total_costs: 20 EUR + 15 EUR Materialkosten
 image:
 ---
 :::short_description
@@ -19,5 +19,5 @@ Du kannst dir eine Vorlage für das Gehäuse erstellen und siehst anschließend 
 :::
 
 :::special_notes
-Etwas selber zu bauen ist ein tolles Erlebnis und die Wetterstation kannst du mit nach Hause nehmen. Vielleicht inspiriert das Erlernte und du hast Lust auf ein weiteres Projekt. Wir helfen dir dabei.
+Etwas selber zu bauen ist ein tolles Erlebnis und die Wetterstation kannst du mit nach Hause nehmen. Vielleicht inspiriert dich das Erlernte und du hast Lust auf ein weiteres Projekt. Wir helfen dir dabei.
 :::
