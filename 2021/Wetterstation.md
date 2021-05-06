@@ -1,5 +1,5 @@
 ---
-title: workshop title
+title: Wetterstation
 category: science|code|engineering
 attributes:
   age: Ab 10+ Jahren
