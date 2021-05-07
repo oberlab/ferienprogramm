@@ -19,5 +19,5 @@ In diesem Kurs lernst du die Grundlagen von 3D-Design und Druck kennen. Wenn ihr
 :::
 
 :::special_notes
-Wie ihr merken werdet ist 3D-Druck nicht unbedingt eine schnelle Angelegenheit. Deshalb kann es sein dass wir eure 3D-Objekt über Nacht oder am nächsten Tag drucken müssen und ihr sie euch abholen könnt wenn sie fertig sind.
+Wie ihr merken werdet ist 3D-Druck nicht unbedingt eine schnelle Angelegenheit. Deshalb kann es sein dass wir eure 3D-Objekt über Nacht oder am nächsten Tag drucken müssen und ihr sie euch abholen könnt, wenn sie fertig sind.
 :::
