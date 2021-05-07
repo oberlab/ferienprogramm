@@ -15,5 +15,5 @@ In unserem Geheimagentenkurs lernen wir Tricks und Verfahrensweisen kennen, wie 
 :::
 
 :::special_notes
-Wchtig! Bitte eine leere Schuhschachtel mitbringen in die der Fuß ihres Kindes passt.
+Wchtig! Bitte eine leere Schuhschachtel mitbringen, in die der Fuß ihres Kindes passt.
 :::
