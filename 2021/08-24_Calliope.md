@@ -19,5 +19,5 @@ Computerprogramme unter anderem machen genau das, was ihr ihnen sagt, das sie ma
 :::
 
 :::special_notes
-Voraussetzung für diesen Kurs ist die vorherige Teilnahme an unserem "Programmieren für Einsteiger" Kurs oder bereits erste Programmiererfahrungen mit Block-Programmiersprachen. Wir haben unterschiedliche Calliope Projekte vorbeitet aus denen du dir eines aussuchen kannst. Dazu gehören neben PErsonenzähler und Alarmanlage auch ein Klatschschalter (Licht mit Händeklatschen an und auschalten), eine automatische Spardose (Wir programmieren uns eine Spardose für Münzen) oder ein automatisches Rollerlicht (Wenn es dunkel wird, schaltet das Licht ein).
+Voraussetzung für diesen Kurs ist die vorherige Teilnahme an unserem "Programmieren für Einsteiger" Kurs oder bereits erste Programmiererfahrungen mit Block-Programmiersprachen. Wir haben unterschiedliche Calliope Projekte vorbeitet aus denen du dir eines aussuchen kannst. Dazu gehören neben Personenzähler und Alarmanlage auch ein Klatschschalter (Licht mit Händeklatschen an und auschalten), eine automatische Spardose (Wir programmieren uns eine Spardose für Münzen) oder ein automatisches Rollerlicht (Wenn es dunkel wird, schaltet das Licht ein).
 :::
