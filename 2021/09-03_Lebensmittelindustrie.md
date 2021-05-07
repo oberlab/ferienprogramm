@@ -11,20 +11,13 @@ attributes:
 image:
 ---
 :::short_description
-Wir stellen künstliche Aromen her, und untersuchen die Tricks der Lebensmittelindustrie. Wieso schmeckt der Kochschinken so lecker, und wie kommt der Erdbeergeschmack ins Bonbon, obwohl kein bisschen Erdbeere darin ist?  
+Wir stellen künstliche Aromen her und untersuchen die Tricks der Lebensmittelindustrie. Wieso schmeckt der Kochschinken so lecker und wie kommt der Erdbeergeschmack ins Bonbon, obwohl kein bisschen Erdbeere darin ist? Dieser und weiterer Geheimnisse der Lebensmittelhersteller werden wir in diesem Workshop auf den Grund gehen.  
 :::
 
 :::message
-250 Zeichen
-- Alltagsbezug
-- Problemstellung
-- Das Erlernte herrausstellen
+Dieser Workshop soll euch vermitteln, beim Einkaufen von Nahrungsmitteln etwas genauer hinzusehen, auf Inhaltsstoffe zu achten und nicht auf den ersten Blick einer tollen Verpackung zu vertrauen, sondern die Inhalte kritisch zu hinterfragen.  
 :::
 
 :::special_notes
-130 Zeichen
-- Sicherheitshinweise
-- Von Zuhause mitbringen
-- Was kann mit nach Hause mitgenommen werden
-- Verfügbarkeit von Kursen (Einschränkungen)
+Die Teilnahme an der Sicherheitsunterweisung um 10:00 Uhr ist zwingend erforderlich. Mitzubringen sind lediglich Klamotten, die schmutzig werden können. 
 :::
