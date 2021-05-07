@@ -15,7 +15,7 @@ Du möchtest dir eine Wetterstation selber bauen? Dann bist du hier richtig. Das
 :::
 
 :::message
-Du kannst dir eine Vorlage für das Gehäuse erstellen und siehst anschließend wie der Lasercutter die Gehäuseform ausschneidet. Danach lädst du das Programm in den Microcontroller und schließt das Display und den Sensor an. Die Verbindung zum Microcontroller lötest du mit nur 4 Drähten an. Wir nennen die Verbindung „I2C-Bus. Nach der Inbetriebnahme kannst du noch Änderungen im Programm vornehmen und die Anzeige im Display anpassen.
+Du kannst dir eine Vorlage für das Gehäuse erstellen und siehst anschließend wie der Lasercutter die Gehäuseform ausschneidet. Danach lädst du das Programm in den Microcontroller und schließt das Display und den Sensor an. Die Verbindung zum Microcontroller lötest du mit nur 4 Drähten an. Wir nennen die Verbindung „I2C-Bus". Nach der Inbetriebnahme kannst du noch Änderungen im Programm vornehmen und die Anzeige im Display anpassen.
 :::
 
 :::special_notes
