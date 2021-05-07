@@ -11,7 +11,7 @@ attributes:
 image:
 ---
 :::short_description  
- Aus pflanzlichen Rohstoffen stellt ihr haut- und umweltverträgliche Badefiguren ganz nach eurer Rezeptur zusammen. Reine Kakaobutter wird hierbei verflüssigt, mit einem ätherischen Öl eurer Wahl zusammengebracht, wahlweise mit Rosen-, oder Lavendelblüten verfeinert und in eine Tierform eurer Wahl gegossen. Besonders duftende Pflanzen in eurem Garten? Kein Problem! Nehmt diese mit und verpasst den Badefiguren eure ganz persönliche (Duft)Note; alles ganz natürlich und umweltschonend.  
+ Aus pflanzlichen Rohstoffen stellt ihr haut- und umweltverträgliche Badefiguren ganz nach eurer Rezeptur zusammen. Reine Kakaobutter wird hierbei verflüssigt, mit einem ätherischen Öl eurer Wahl zusammengebracht, wahlweise mit Rosen-, oder Lavendelblüten verfeinert und in eine Tierform eurer Wahl gegossen. Zudem bereitet ihr sprudelnde Badebomben zu, die euer nächstes Bad mit den Farben eurer Wahl zu einem ganz besonderen Erlebnis machen werden.
 :::
 
 :::message
@@ -19,5 +19,5 @@ Es müssen nicht teure Pflegeprodukte mit vielen Inhaltsstoffen eingekauft werde
 :::  
 
 :::special_notes  
-Eure Badefiguren werden in eine von euch ausgewählte Silikonform in Form gebracht. Ihr habt die Wahl aus verschiedenen Tierformen. So könnt ihr zum Beispiel einen Flamingo- oder Raupenbadefigur mit nach Hause nehmen.
+Eure Badefiguren werden in eine von euch ausgewählte Silikonform in Form gebracht. Ihr habt die Wahl aus verschiedenen Tierformen. So könnt ihr zum Beispiel einen Flamingo- oder Raupenbadefigur mit nach Hause nehmen. Das Gleiche gilt für eure Bomben. 
 :::
