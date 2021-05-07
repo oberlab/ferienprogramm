@@ -11,11 +11,12 @@ attributes:
 image:
 ---
 :::short_description
-Tipps und Tricks im 3D-Druck, um eure Ideen in 3D-Modelle umzuwandeln. Und natürlich werden diese nachher gedruckt.
+Tipps und Tricks im 3D-Druck, um eure Ideen in 3D-Modelle umzuwandeln. Hier lernst du, wie du deine Idee vom Papier in die
+Realität umsetzt. Egal ob Handyhalter oder Ersatzteil fürs eigene Fahrrad.
 :::
 
 :::message
-Dieser Kurs ist das richtige für dich, wenn du bereits unseren 3D-Druck und Design Einsteigerkurs besucht hast, oder du bereits eigene Erfahrungen mit 3D-Druck gesammekt hast.
+Dieser Kurs ist das richtige für dich, wenn du bereits unseren 3D-Druck und Design Einsteigerkurs besucht hast, oder du bereits eigene Erfahrungen mit 3D-Druck gesammelt hast. Wir zeigen dir hilfreiche Tricks, wie du das optimale 3D-Design für deine Bauteile gestaltestund es anschließend druckst.
 :::
 
 :::special_notes
