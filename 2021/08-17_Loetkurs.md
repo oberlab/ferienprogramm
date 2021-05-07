@@ -1,6 +1,6 @@
 ---
 title: Löten lernen
-category: science|code|engineering
+category: engineering
 attributes:
   age: Ab 8+ Jahren
   group_size: 6 Personen

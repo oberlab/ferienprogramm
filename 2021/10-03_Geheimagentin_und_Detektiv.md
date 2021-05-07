@@ -4,7 +4,7 @@ category: science
 attributes:
   age: 7 - 10 Jahre
   group_size: 6 Personen
-  duration: 10:00 - 16:00
+  duration: 12:30- 14:30
   date: 10.08.2021, 16.08.2021
   material_costs: 3 EUR Materialkosten
   total_costs: 11 EUR + 3 EUR Materialkosten
@@ -15,5 +15,7 @@ In unserem Geheimagentenkurs lernen wir Tricks und Verfahrensweisen kennen, wie 
 :::
 
 :::special_notes
-Wchtig! Bitte eine leere Schuhschachtel mitbringen, in die der Fuß ihres Kindes passt.
+Wchtig! Bitte eine leere Schuhschachtel mitbringen in die der Fuß ihres Kindes passt.
+
+Dieser Workshop wird von > Frühes Forschen Rosenheim < in Kooperation mit uns angeboten.
 :::

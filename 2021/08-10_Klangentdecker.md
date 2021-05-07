@@ -4,7 +4,7 @@ category: science
 attributes:
   age: 4 - 6 Jahre
   group_size: 6 Personen
-  duration: 10:00 - 16:00
+  duration: 10:00 - 11:30
   date: 10.08.2021, 16.08.2021
   material_costs: 1.50 EUR Materialkosten
   total_costs: 8.50 EUR + 1.50 EUR Materialkosten
@@ -16,4 +16,6 @@ Heute darf es ein bisschen laut werden! Wie entstehen eigentlich Töne? Was ist 
 
 :::special_notes
 Wichtig! Bitte 2 leere, saubere Joghurtbecher (gleicher Durchmesser), kleine leere, saubere Konservendose (bitte keine scharfen Kanten) mitnehmen.
+
+Dieser Workshop wird von > Frühes Forschen Rosenheim < in Kooperation mit uns angeboten.
 :::
