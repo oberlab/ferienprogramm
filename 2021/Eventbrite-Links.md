@@ -22,6 +22,6 @@
 | 16              | Arduino Wetterstation       | **25.08** |https://www.eventbrite.de/e/arduino-wetterstation-tickets-154469712067 |
 | 17              | 3D-Druck Anfänger           | **26.08** |https://www.eventbrite.de/e/3d-druck-und-design-fur-anfanger-tickets-154470135333 |
 | 18              | 3D-Druck Fortgeschritten    | **27.08** |https://www.eventbrite.de/e/3d-druck-fur-fortgeschrittene-tickets-154470315873 |
-| 19              | JeanCloud I                 | **31.08** | |
-| 20              | JeanCloud II                | **01.09** | |
+| 19              | JeanCloud I                 | **31.08** |https://www.eventbrite.de/e/deine-eigene-cloud-jeancloud-tickets-154474797277 |
+| 20              | JeanCloud II                | **01.09** |https://www.eventbrite.de/e/deine-eigene-cloud-jeancloud-tickets-154474797277 |
 | 21              | Lebensmittelindustrie       | **03.09** | |
