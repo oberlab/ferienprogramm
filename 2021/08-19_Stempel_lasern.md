@@ -15,9 +15,9 @@ Ein Stempel ist wie der persönliche Fingerabdruck am Ende eines Briefes, doch l
 :::
 
 :::message
-Ob zu künslterischen oder zu anderen Zwecken, ein Stempel lässt sich täglich verschieden einsetzen. Um Briefen oder Bildern im wahrsten Sinne euren "Stempel aufzudrücken", gestaltet ihr ganz nach euren Vorstellungen einen Stempel und lernt dabei, wie man mit Grafikprogrammen und dem Lasercutter umgeht.
+Ob zu künstlerischen oder zu anderen Zwecken, ein Stempel lässt sich täglich verschieden einsetzen. Um Briefen oder Bildern im wahrsten Sinne euren "Stempel aufzudrücken", gestaltet ihr ganz nach euren Vorstellungen einen Stempel und lernt dabei, wie man mit Grafikprogrammen und dem Lasercutter umgeht.
 :::
 
 :::special_notes
-Eure selbstgestalteten Stempel könnt ihr im Anschluss freilich mit nach Hause nehmen.
+Eure selbst gestalteten Stempel könnt ihr im Anschluss freilich mit nach Hause nehmen.
 :::

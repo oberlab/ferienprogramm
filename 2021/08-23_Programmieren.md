@@ -11,7 +11,7 @@ attributes:
 image:
 ---
 :::short_description
-Dass die Spielfigur in eurem Lieblingscomputerspiel nach rechts läuft, wenn ihr die Pfeiltaste rechts drückt ist ja logisch. Habt ihr euch aber schon mal Gedanken gemacht, welche Technologie dahintersteckt? In diesem Workshop taucht ihr in die Welt des Programmierens ein und schreibt einen einfachen Code ganz ohne Computer und Strom. Dabei werdet ihr mit einem Spielfeld, einer Spielfigur und bunten Stiften zum Supercoder und bringt eure Spielfigur auf große Entdeckungstour. Anschließend wagen wir uns gemeinsam an das Programmieren eines Mikrocontrollers, ein Bauteil welches häufig als Schaltzentrale in Waschmaschine, Kaffemaschine und Co. arbeitet.
+Dass die Spielfigur in eurem Lieblingscomputerspiel nach rechts läuft, wenn ihr die Pfeiltaste rechts drückt ist ja logisch. Habt ihr euch aber schon mal Gedanken gemacht, welche Technologie dahintersteckt? In diesem Workshop taucht ihr in die Welt des Programmierens ein und schreibt einen einfachen Code ganz ohne Computer und Strom. Dabei werdet ihr mit einem Spielfeld, einer Spielfigur und bunten Stiften zum Supercoder und bringt eure Spielfigur auf große Entdeckungstour. Anschließend wagen wir uns gemeinsam an das Programmieren eines Mikrocontrollers, ein Bauteil welches häufig als Schaltzentrale in Waschmaschine, Kaffeemaschine und Co. arbeitet.
 :::
 
 :::message

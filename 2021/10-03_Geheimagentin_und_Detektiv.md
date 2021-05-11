@@ -15,7 +15,7 @@ In unserem Geheimagentenkurs lernen wir Tricks und Verfahrensweisen kennen, wie 
 :::
 
 :::special_notes
-Wchtig! Bitte eine leere Schuhschachtel mitbringen in die der Fuß ihres Kindes passt.
+Wichtig! Bitte eine leere Schuhschachtel mitbringen in die der Fuß ihres Kindes passt.
 
 Dieser Workshop wird von > Frühes Forschen Rosenheim < in Kooperation mit uns angeboten.
 :::
