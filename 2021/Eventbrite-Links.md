@@ -18,10 +18,10 @@
 | 12              | Stempel lasern              | **19.08** |https://www.eventbrite.de/e/stempel-lasern-tickets-154464929763 |
 | ~13~              | ~Transistorradio~             | ~**21.08**~ | ~**gestrichen**~ |
 | 14              | Programmieren für Anfänger  | **23.08** |https://www.eventbrite.de/e/programmieren-fur-anfanger-tickets-154465643899 |
-| 15              | Calliope programmieren      | **24.08** | |
-| 16              | Arduino Wetterstation       | **25.08** | |
-| 17              | 3D-Druck Anfänger           | **26.08** | |
-| 18              | 3D-Druck Fortgeschritten    | **27.08** | |
+| 15              | Calliope programmieren      | **24.08** |https://www.eventbrite.de/e/programmieren-fur-anfanger-ii-den-calliope-programmieren-tickets-154466241687 |
+| 16              | Arduino Wetterstation       | **25.08** |https://www.eventbrite.de/e/arduino-wetterstation-tickets-154469712067 |
+| 17              | 3D-Druck Anfänger           | **26.08** |https://www.eventbrite.de/e/3d-druck-und-design-fur-anfanger-tickets-154470135333 |
+| 18              | 3D-Druck Fortgeschritten    | **27.08** |https://www.eventbrite.de/e/3d-druck-fur-fortgeschrittene-tickets-154470315873 |
 | 19              | JeanCloud I                 | **31.08** | |
 | 20              | JeanCloud II                | **01.09** | |
 | 21              | Lebensmittelindustrie       | **03.09** | |

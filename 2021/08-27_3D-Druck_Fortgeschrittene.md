@@ -16,7 +16,7 @@ Realität umsetzt. Egal ob Handyhalter oder Ersatzteil fürs eigene Fahrrad.
 :::
 
 :::message
-Dieser Kurs ist das richtige für dich, wenn du bereits unseren 3D-Druck und Design Einsteigerkurs besucht hast, oder du bereits eigene Erfahrungen mit 3D-Druck gesammelt hast. Wir zeigen dir hilfreiche Tricks, wie du das optimale 3D-Design für deine Bauteile gestaltestund es anschließend druckst.
+Dieser Kurs ist das richtige für dich, wenn du bereits unseren 3D-Druck und Design Einsteigerkurs besucht hast, oder du bereits eigene Erfahrungen mit 3D-Druck gesammelt hast. Wir zeigen dir hilfreiche Tricks, wie du das optimale 3D-Design für deine Bauteile gestaltest und es anschließend druckst.
 :::
 
 :::special_notes
