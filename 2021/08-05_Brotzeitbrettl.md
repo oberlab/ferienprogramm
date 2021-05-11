@@ -1,5 +1,5 @@
 ---
-title: workshop title
+title: Brotzeitbrettl aus dem Lasercutter
 category: engineering
 attributes:
   age: 12 - 14 Jahre
@@ -15,7 +15,7 @@ Dein Brotzeitbrettl ist langweilig und bleibt häufig unbenutzt? Du willst daran
 :::
 
 :::message
-In diesem Kurs lernst du die Grundlagen von Grafikdesign. Wie tief du einsteigen möchtest bestimmst du! Außerdem zeigen wir dir wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir deinem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Dein individuell gestaltetes Brotzeitbrettl darfst du natürlich mit nach Hause nehmen.
+In diesem Kurs lernst du die Grundlagen von Grafikdesign. Wie tief du einsteigen möchtest, bestimmst du! Außerdem zeigen wir dir wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir deinem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Dein individuell gestaltetes Brotzeitbrettl darfst du natürlich mit nach Hause nehmen.
 :::
 
 :::special_notes
