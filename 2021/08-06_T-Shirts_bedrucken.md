@@ -11,23 +11,13 @@ attributes:
 image:
 ---
 :::short_description
-300 Zeichen
-- knappe Einleitung
-- WAS wird WIE gemacht
-- Ergebnis
+Ihr wolltet schon immer einmal euer ganz eigenes Design oder Logo auf ein T-Shirt bringen? In diesem Kurs wird dieser Wunsch Wirklichkeit, denn mittels einem Designprogramm, einem Schneideplotter und einer Bügelpresse wird aus eurem T-Shirt etwas ganz einzigartiges, das garantiert niemand sonst besitzt.
 :::
 
 :::message
-250 Zeichen
-- Alltagsbezug
-- Problemstellung
-- Das Erlernte herrausstellen
+Beim Kauf von Kleidungsstücken achten wir darauf, dass das Motiv unseren Vorstellungen entspricht, was sich oft als schwierig erweist. Dieser Workshop zeigt euch, wie einfach das Gestalten eines Motives am Computer ist und wie viel Freude es macht, wenn das eigene T-Shirt fertig ist.
 :::
 
 :::special_notes
-130 Zeichen
-- Sicherheitshinweise
-- Von Zuhause mitbringen
-- Was kann mit nach Hause mitgenommen werden
-- Verfügbarkeit von Kursen (Einschränkungen)
+Zu diesem Kurs nehmt ihr ein Kleidungsstück von zu Hause mit, das ihr bedrucken wollt. Farbe und Größe legt ihr fest.
 :::
