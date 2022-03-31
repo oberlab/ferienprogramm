@@ -3,11 +3,10 @@ title: Stempel lasern
 category: engineering
 attributes:
   age: Ab 8+ Jahren
-  group_size: 6 Personen
-  duration: 10:00 - 15:00
-  date: 19.08.2021
-  material_costs: 10 EUR
-  total_costs: 15 EUR + 10 EUR Materialkosten
+  group_size: 8 Personen
+  duration: 09:00 - 13:00
+  date: 19.08.2022
+  total_costs: 30 EUR
 image:
 ---
 :::short_description

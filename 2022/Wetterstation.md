@@ -3,11 +3,10 @@ title: Arduino Wetterstation
 category: engineering
 attributes:
   age: 12 - 16 Jahre
-  group_size: 6 Personen
-  duration: 10:00 - 16:00
-  date: 25.08.2021
-  material_costs: 10 EUR Materialkosten
-  total_costs: 20 EUR + 15 EUR Materialkosten
+  group_size: 8 Personen
+  duration: 09:00 - 15:00
+  date: 22.08.2022
+  total_costs: 45 EUR
 image:
 ---
 :::short_description

@@ -5,9 +5,8 @@ attributes:
   age: 12 - 14 Jahre
   group_size: 6 Personen
   duration: 10:00 - 16:00
-  date: 05.08.2021
-  material_costs: 10 EUR Materialkosten
-  total_costs: 15 EUR + 10 EUR Materialkosten
+  date: 18.08.2022
+  total_costs: 25 EUR
 image:
 ---
 :::short_description

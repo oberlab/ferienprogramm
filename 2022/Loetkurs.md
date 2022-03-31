@@ -3,11 +3,10 @@ title: Löten lernen
 category: engineering
 attributes:
   age: Ab 8+ Jahren
-  group_size: 6 Personen
+  group_size: 8 Personen
   duration: 9:00 - 12:00
-  date: 17.08.2021
-  material_costs: 5 EUR Materialkosten
-  total_costs: 10 EUR + 5 EUR Material
+  date: 04.08.2022
+  total_costs: 20 EUR
 image:
 ---
 :::short_description

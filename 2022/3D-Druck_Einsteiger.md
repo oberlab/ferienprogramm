@@ -3,11 +3,11 @@ title: 3D-Druck und Design für Einsteiger
 category: engineering
 attributes:
   age: 10 - 14 Jahre
-  group_size: 6 Personen
-  duration: 10:00 - 16:00
-  date: 14.08.2021, 26.08.2021
+  group_size: 8 Personen
+  duration: 09:00 - 15:00
+  date: 17.08.2022
   material_costs: 2 EUR Materialkosten
-  total_costs: 20 EUR + 2 EUR Materialkosten
+  total_costs: 30 EUR
 image:
 ---
 :::short_description

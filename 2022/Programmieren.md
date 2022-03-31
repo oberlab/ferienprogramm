@@ -3,11 +3,11 @@ title: Programmieren für Einsteiger
 category: code
 attributes:
   age: Ab 8 - 12 Jahre
-  group_size: 6 Personen
-  duration: 10:00 - 15:00
-  date: 23.08.2021
+  group_size: 8 Personen
+  duration: 09:00 - 13:00
+  date: 08.08.2022
   material_costs: 0 EUR Materialkosten
-  total_costs: 15 EUR
+  total_costs: 20 EUR
 image:
 ---
 :::short_description

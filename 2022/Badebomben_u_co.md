@@ -4,10 +4,10 @@ category: science
 attributes:
   age: Ab 8 - 14 Jahren
   group_size: 6 Personen
-  duration: 10:00 - 15:00
-  date: 18.08.2021  
+  duration: 09:00 - 13:00
+  date: 06.09.2022
   material_costs: 8 EUR Materialkosten
-  total_costs: 15 EUR + 8 EUR Materialkosten
+  total_costs: 35 EUR
 image:
 ---
 :::short_description  
@@ -19,5 +19,5 @@ Es müssen nicht teure Pflegeprodukte mit vielen Inhaltsstoffen eingekauft werde
 :::  
 
 :::special_notes  
-Eure Badefiguren werden in eine von euch ausgewählte Silikonform in Form gebracht. Ihr habt die Wahl aus verschiedenen Tierformen. So könnt ihr zum Beispiel einen Flamingo- oder Raupenbadefigur mit nach Hause nehmen. Das Gleiche gilt für eure Bomben. 
+Eure Badefiguren werden in eine von euch ausgewählte Silikonform in Form gebracht. Ihr habt die Wahl aus verschiedenen Tierformen. So könnt ihr zum Beispiel einen Flamingo- oder Raupenbadefigur mit nach Hause nehmen. Das Gleiche gilt für eure Bomben.
 :::

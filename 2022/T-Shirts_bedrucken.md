@@ -4,10 +4,9 @@ category: engineering
 attributes:
   age: Ab 8+ Jahren
   group_size: 6 Personen
-  duration: 10:00 - 16:00
-  date: 06.08.2021
-  material_costs: 5 EUR Materialkosten
-  total_costs: 18 EUR + 5 EUR Materialkosten
+  duration: 13:00 - 18:00
+  date: 18.08.2022
+  total_costs: 30 EUR
 image:
 ---
 :::short_description

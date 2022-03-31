@@ -2,12 +2,11 @@
 title: Paper Circuits
 category: science
 attributes:
-  age: 8-12 Jahre
-  group_size: 6 Personen
-  duration: 10:00 - 15:00
-  date: 13.08.2021
-  material_costs: 2 EUR Materialkosten
-  total_costs: 15 EUR + 2 EUR Materialkosten
+  age: 8-10 Jahre
+  group_size: 8 Personen
+  duration: 09:00 - 12:00
+  date: 03.08.2022
+  total_costs: 18 EUR
 image:
 ---
 :::short_description  
