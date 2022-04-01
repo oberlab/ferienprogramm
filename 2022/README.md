@@ -28,16 +28,16 @@
 
 |          Workshop          	| Leitung 	| Infos? 	|
 |:--------------------------:	|:-------:	|:------:	|
-|       Paper Circuits       	| Julian? 	|        	|
+|       Paper Circuits       	| Steffi  	|        	|
 |        Wasseranalyse       	| Julian? 	|        	|
 |        Wetterstation       	|  Heinz  	|        	|
 |          Calliope          	|    ?    	|        	|
 |           TShirts          	|    ?    	|        	|
 |       Brotzzeitbrettl      	|  Heinz  	|        	|
-|      3D-Druck Anfänger     	|    ?    	|        	|
-|  3D-Druck Fortgeschrittene 	|    ?    	|        	|
+|      3D-Druck Anfänger     	| Steffi    |        	|
+|  3D-Druck Fortgeschrittene 	| Steffi  	|        	|
 |           Lötkurs          	|  Heinz  	|        	|
-|       Stempel lasern       	| Julian? 	|        	|
+|       Stempel lasern       	| Steffi   	|        	|
 | Programmieren für Anfänger 	|    ?    	|        	|
 |         Stiftebox         	|  Heinz    | 4h (9:00 - 13:00)     	|
 |                            	|         	|        	|
