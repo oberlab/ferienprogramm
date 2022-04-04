@@ -1,4 +1,4 @@
-## Zeitplan für das Ferienprogramm 2022
+# Zeitplan für das Ferienprogramm 2022
 
 | Kurs                                  	| Leitung         	| Datum  	| Tag        	| Uhrzeit       	| Kosten  	| Info                                                  	|
 |---------------------------------------	|-----------------	|--------	|------------	|---------------	|---------	|-------------------------------------------------------	|
@@ -20,26 +20,3 @@
 | Bau dir deinen eigenen Roboter        	| Heinz           	| 29.08. 	| 03.09.     	| 09:00 - 16:00 	| 249 EUR 	| Wochenkurs                                            	|
 | Badebomben und Badewürfel             	| Julian          	| 06.09. 	| Montag     	| 09:00 - 13:00 	| 35 EUR  	|                                                       	|
 
-
-
-
-
-## Workshopideen für das Ferienprogramm 2022
-
-|          Workshop          	| Leitung 	| Infos? 	|
-|:--------------------------:	|:-------:	|:------:	|
-|       Paper Circuits       	| Steffi  	|        	|
-|        Wasseranalyse       	| Julian? 	|        	|
-|        Wetterstation       	|  Heinz  	|        	|
-|          Calliope          	|    ?    	|        	|
-|           TShirts          	|    ?    	|        	|
-|       Brotzzeitbrettl      	|  Heinz  	|        	|
-|      3D-Druck Anfänger     	| Steffi    |        	|
-|  3D-Druck Fortgeschrittene 	| Steffi  	|        	|
-|           Lötkurs          	|  Heinz  	|        	|
-|       Stempel lasern       	| Steffi   	|        	|
-| Programmieren für Anfänger 	|    ?    	|        	|
-|         Stiftebox         	|  Heinz    | 4h (9:00 - 13:00)     	|
-|                            	|         	|        	|
-|                            	|         	|        	|
-|                            	|         	|        	|
