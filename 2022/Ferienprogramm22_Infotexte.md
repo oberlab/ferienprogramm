@@ -96,19 +96,6 @@ Für weiter Fragen stehe ich Dir jederzeit zur Verfügung.
 
 Mit freundlichen Grüßen und bleib gesund,
 
-Julian C. Heyder
-
-Fachbereich:  Naturwissenschaften
-E-Mail:       julian@oberlab.de
-Telefon:      +49 157 319 1995 6
-Homepage:     oberlab.de
-Social-Media: facebook.com/FabLabOberland/
-
-Unser aktuelles Programm gibt's hier: oberlab.de/programm
-
-FabLab Oberland e.V.
-Tölzer Straße 3a
-83703 Gmund am Tegernsee
 
 ---
 
@@ -140,31 +127,6 @@ Mit freundlichen Grüßen und bleib gesund,
 
 
 
-Julian C. Heyder
-
-
-
-Fachbereich:  Naturwissenschaften
-
-E-Mail:       julian@oberlab.de
-
-Telefon:      +49 157 319 1995 6
-
-Homepage:     oberlab.de
-
-Social-Media: facebook.com/FabLabOberland/
-
-
-
-Unser aktuelles Programm gibt's hier: oberlab.de/programm
-
-
-
-FabLab Oberland e.V.
-
-Tölzer Straße 3a
-
-83703 Gmund am Tegernsee
 
 ---
 
@@ -187,21 +149,9 @@ Für weiter Fragen stehe ich Dir jedereit zur Verfügung.
 
 --
 
-Mit freundlichen Grüßen und bleib Sie gesund,
+Mit freundlichen Grüßen und bleib gesund,
 
-Julian C. Heyder
 
-Fachbereich:  Naturwissenschaften
-E-Mail:       julian@oberlab.de
-Telefon:      +49 157 319 1995 6
-Homepage:     oberlab.de
-Social-Media: facebook.com/FabLabOberland/
-
-Unser aktuelles Programm gibt's hier: oberlab.de/programm
-
-FabLab Oberland e.V.  
-Tölzer Straße 3a    
-83703 Gmund am Tegernsee
 
 ---
 
