@@ -50,13 +50,13 @@ Die Kinder begeben sich als Piraten mit Kompass auf Experimentierkurs. Warum geh
 ### 17.08.2022 - 3D-Druck und Design für Annfänger:innen
 Jeder hat schon einmal Texte oder Bilder auf ein Blatt Papier gedruckt. Doch was ist, wenn das Objekt, das man auf ein Papier druckt auf einmal dreidimensional ist und gut an den Schlüsselbund gehängt werden kann? Das klingt nach Science-Fiction, gehört aber inzwischen zur gängigen Praxis in additiver Fertigung. Ihr habt eine Lieblingsfigur oder wollt eurem Haustier ein Namensschild gestalten? In diesem Workshop werdet ihr ein Objekt eurer Wahl selbst designen und am 3D-Drucker ausdrucken.
 
-### 18.08.2022 - T-Shirts bedrucken
+### 11.08.2022 - T-Shirts bedrucken
 Ihr wolltet schon immer einmal euer ganz eigenes Design oder Logo auf einem T-Shirt haben? In diesem Kurs wird dieser Wunsch Wirklichkeit, denn mittels einem Designprogramm, einem Schneideplotter und einer Bügelpresse wird aus eurem T-Shirt etwas ganz einzigartiges, das garantiert niemand sonst besitzt. Wir liefern das Werkzeug, ihr den kreativen Input.
 
 ### 18.08.2022 - Brotzeitbrettl lasern
  Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall der Hingucker für die nächste Brotzeit wird. Ihr könnt euch Motive aus unseren Vorlagen aussuchen, daraus ein individuelles Design für euer Brotzeitbrettl zusammenstellen und anschließend mit unserem Lasercutter in das Holz einbrennen.
 
-### 19.08.2022 - Stempel lasern
+### 12.08.2022 - Stempel lasern
 Ein Stempel ist wie der persönliche Fingerabdruck am Ende eines Briefes, doch leider sind die Motive oft schon vorgegeben. In diesem Workshop gestaltet ihr einen ganz persönlichen Stempel am Computer und schneidet ihn danach mit dem Lasercutter aus.  Ein Kätzchen, ein Pokémon, ein Palatschinken oder euer Name, alles geschieht nach euren Vorstellungen.
 
 ### 19.08.2022 - Stiftebox aus dem Lasercutter
