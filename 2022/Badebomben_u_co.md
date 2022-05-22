@@ -3,7 +3,7 @@ title: Badebomben & Co.
 category: science
 attributes:
   age: Ab 8 - 14 Jahren
-  group_size: 6 Personen
+  group_size: 8 Personen
   duration: 09:00 - 13:00
   date: 06.09.2022
   material_costs: 8 EUR Materialkosten
