@@ -5,7 +5,7 @@
 | Nähen für Anfänger                    	| Carmen          	| 01.08. 	| Montag     	| 09:00 - 12:00 	| 20 EUR  	| https://oberlab.de/programm/naehen-anfaenger 	|
 | Nähen für Fortgeschrittene            	| Carmen          	| 01.08. 	| Montag     	| 13:00 - 16:00 	| 30 EUR  	| https://oberlab.de/programm/naehen-fortgeschrittene.html                                             	|
 | Paper Circuits                        	| Julian + Stefanie          	| 03.08. 	| Mittwoch   	| 09:00 - 12:00 	| 20 EUR  	| https://oberlab.de/programm/papercircuits.html                                             	|
-| Löten für Anfänger                    	| Heinz           	| 04.08. 	| Donnerstag 	| 09:00 - 12:00 	| 22 EUR  	| https://oberlab.de/programm/loeten-anfaenger.html                                             	|
+| Löten für Anfänger                    	| Heinz           	| 04.08. 	| Donnerstag 	| 09:00 - 12:00 	| 20 EUR  	| https://oberlab.de/programm/loeten-anfaenger.html                                             	|
 | Programmieren für Anfänger            	| Julian + Stefanie          	| 08.08. 	| Montag     	| 09:00 - 13:00 	| 25 EUR  	| https://oberlab.de/programm/programmieren-anfaenger.html                                             	|
 | Zuckerzauber und Brausespaß           	| Frühes Forschen 	| 09.08. 	| Dienstag   	| 14:00 - 15:30 	| 13 EUR  	| https://oberlab.de/programm/zuckerzauber1.html                                             	|
 | Land in Sicht - Seeräuber und Piraten 	| Frühes Forschen 	| 09.08. 	| Dienstag   	| 16:00 - 18:00 	| 17 EUR  	| https://oberlab.de/programm/landinsicht1.html                                             	|
