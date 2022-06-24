@@ -10,7 +10,7 @@
 | Land in Sicht - Seeräuber und Piraten 	| Frühes Forschen   	| 09.08. 	| Dienstag   	| 7 - 10  	| 16:00 - 18:00 	| 17 EUR  	| https://oberlab.de/programm/landinsicht1.html            	|
 | Tshirts bedrucken                     	| Julian + Stefanie 	| 11.08. 	| Donnerstag 	| Ab 8    	| 13:00 - 18:00 	| 30 EUR  	| https://oberlab.de/programm/tshirts-bedrucken.html       	|
 | Stempel lasern                        	| Julian + Stefanie 	| 12.08. 	| Freitag    	| Ab 8    	| 09:00 - 13:00 	| 30 EUR  	| https://oberlab.de/programm/stempel-lasern.html          	|
-| Zuckerzauber und Brausespaß           	| Frühes Forschen   	| 16.08. 	| Dienstag   	| 4 - 6   	| 14:00 - 15:30 	| 13 EUR  	| https://oberlab.de/programm/stempel-lasern.html     	|
+| Zuckerzauber und Brausespaß           	| Frühes Forschen   	| 16.08. 	| Dienstag   	| 4 - 6   	| 14:00 - 15:30 	| 13 EUR  	| https://oberlab.de/programm/zuckerzauber2.html     	|
 | Land in Sicht - Seeräuber und Piraten 	| Frühes Forschen   	| 16.08. 	| Dienstag   	| 7 - 10  	| 16:00 - 18:00 	| 17 EUR  	| https://oberlab.de/programm/landinsicht2.html            	|
 | 3D-Druck und Design für Anfänger      	| Julian + Stefanie 	| 17.08. 	| Mittwoch   	| 8 - 12  	| 09:00 - 15:00 	| 32 EUR  	| https://oberlab.de/programm/3d-druck-design.html         	|
 | Brotzeitbrettl lasern                 	| Heinz/Julian?     	| 18.08. 	| Donnerstag 	| 12 - 14 	| 09:00 - 13:00 	| 25 EUR  	| https://oberlab.de/programm/brotzeitbrettl.html          	|
