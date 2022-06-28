@@ -16,5 +16,5 @@
 | Brotzeitbrettl lasern                 	| Heinz/Julian?     	| 18.08. 	| Donnerstag 	| 12 - 14 	| 09:00 - 13:00 	| 25 EUR  	| https://oberlab.de/programm/brotzeitbrettl.html          	|
 | Stiftebox aus dem Lasercutter         	| Heinz             	| 19.08. 	| Freitag    	| Ab 8    	| 09:00 - 13:00 	| 30 EUR  	| https://oberlab.de/programm/stiftebox.html               	|
 | Wetterstation bauen                   	| Heinz             	| 22.08. 	| Montag     	| 12 - 16 	| 09:00 - 15:00 	| 45 EUR  	| https://oberlab.de/programm/wetterstation.html           	|
-| Bau dir deinen eigenen Roboter        	| Heinz             	| 29.08. 	| 03.09.     	| Ab 10   	| 09:00 - 16:00 	| 249 EUR 	| https://oberlab.de/programm/roboter-bauen.html           	|
+| Bau dir deinen eigenen Roboter        	| Heinz             	| 29.08. 	| 02.09.     	| Ab 10   	| 09:00 - 16:00 	| 249 EUR 	| https://oberlab.de/programm/roboter-bauen.html           	|
 | Badebomben und Badewürfel             	| Julian + Stefanie 	| 06.09. 	| Montag     	| 8 - 14  	| 09:00 - 13:00 	| 35 EUR  	| https://oberlab.de/programm/badebomben.html              	|
